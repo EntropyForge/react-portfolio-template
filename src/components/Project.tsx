@@ -1,5 +1,5 @@
 import React from "react";
-import mock01 from '../assets/images/mock01.png';
+import CrewModuleData from '../assets/images/CrewModuleData.jpg';
 import mock02 from '../assets/images/mock02.png';
 import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
@@ -17,9 +17,11 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="#" target="_blank" rel="noreferrer">
+                    <img src={CrewModuleData} className="zoom" alt="Hypersonic Crew Module Re-entry Analysis Collage" width="100%"/>
+                </a>
+                <h2>Crew Module </h2>
+                <p>Executed advanced hypersonic aerodynamic analysis for a conceptual crew module subjected to extreme atmospheric reentry conditions. Utilizing computational fluid dynamics (CFD), I modeled reentry velocities up to Mach 20, mapping critical thermal and pressure distributions. The simulation validated a drag coefficient of 1.8 and successfully analyzed peak stagnation pressures reaching 7.9 MPa, verifying the module's structural integrity with an achieved Factor of Safety (FoS) of up to 2.8 under severe hypersonic loads.</p>
             </div>
             <div className="project">
                 <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
