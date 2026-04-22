@@ -16,21 +16,6 @@ function Contact() {
                   <strong>Phone: </strong> 
                   <a href="tel:+919579767131">+91 9579767131</a>
               </p>
-              
-              <a href="/Abhishek_Nagwani_Resume.pdf" download="Abhishek_Nagwani_Resume.pdf">
-                  <button style={{ 
-                      padding: '12px 24px', 
-                      fontSize: '1.1rem', 
-                      cursor: 'pointer',
-                      borderRadius: '5px',
-                      border: 'none',
-                      backgroundColor: '#fff',
-                      color: '#000',
-                      fontWeight: 'bold'
-                  }}>
-                      📄 Download Resume
-                  </button>
-              </a>
           </div>
 
         </div>
