@@ -1,44 +1,32 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faRobot, faRocket, faCubes } from '@fortawesome/free-solid-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "React",
-    "TypeScript",
-    "JavaScript",
-    "HTML5",
-    "CSS3",
-    "SASS",
-    "Flask",
-    "Python",
-    "SQL",
-    "PostgreSQL",
-    "Postman"
+    "Mechatronic Integration",
+    "3-DOF Kinematic Modeling",
+    "Automated NDT (Inspection)",
+    "Adaptive Gauge Locomotion",
+    "Custom Transmission Design"
 ];
 
 const labelsSecond = [
-    "Git",
-    "GitHub Actions",
-    "Docker",
-    "AWS",
-    "Azure",
-    "Linux",
-    "Snowflake",
-    "Pandas",
-    "Selenium",
+    "Heavy-Lift UAV Architecture",
+    "ArduPilot & Pixhawk",
+    "ANSYS Fluent ",
+    "Aerodynamic Simulation",
+    "Payload Integration Systems"
 ];
 
 const labelsThird = [
-    "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "Advanced CAD (Fusion 360)",
+    "CFD & FEA (ANSYS)",
+    "Structural Load Analysis",
+    "Thermodynamic Modeling",
+    "Additive Manufacturing"
 ];
 
 function Expertise() {
