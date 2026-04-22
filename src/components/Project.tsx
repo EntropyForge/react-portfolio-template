@@ -10,7 +10,19 @@ function Project() {
             <div className="project">
                     <img src={CrewModuledata} className="zoom" alt="Hypersonic Crew Module Re-entry Analysis Collage" width="100%"/>
                 <h2>Crew Module </h2>
-                <p>Executed advanced hypersonic aerodynamic analysis for a conceptual crew module subjected to extreme atmospheric reentry conditions. Utilizing computational fluid dynamics (CFD), I modeled reentry velocities up to Mach 20, mapping critical thermal and pressure distributions. The simulation validated a drag coefficient of 1.8 and successfully analyzed peak stagnation pressures reaching 7.9 MPa, verifying the module's structural integrity with an achieved Factor of Safety (FoS) of up to 2.8 under severe hypersonic loads.</p>
+                <p><strong>Objective:</strong><br/>Evaluate aerodynamic performance and structural integrity under extreme reentry conditions.</p>
+                <p><strong>Approach:</strong></p>
+                <ul>
+                    <li>Performed CFD analysis for hypersonic flow conditions (up to <strong>Mach 20</strong>).</li>
+                    <li>Mapped thermal and pressure distributions across the module surface.</li>
+                    <li>Conducted structural validation using pressure loads.</li>
+                </ul>
+                <p><strong>Key Results:</strong></p>
+                <ul>
+                    <li><strong>Drag coefficient:</strong> 1.8</li>
+                    <li><strong>Peak stagnation pressure:</strong> 7.9 MPa</li>
+                    <li><strong>Factor of Safety (FoS):</strong> 2.8 under hypersonic loads.</li>
+                </ul>
             </div>
         </div>
     </div>
