@@ -1,5 +1,6 @@
 import React from "react";
 import CrewModuledata from '../assets/images/CrewModuledata.jpg';
+import Roboteric from '../assets/images/Roboteric.jpg';
 import '../assets/styles/Project.scss';
 
 function Project() {
