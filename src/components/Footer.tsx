@@ -5,7 +5,6 @@ import '../assets/styles/Footer.scss'
 function Footer() {
   return (
     <footer>
-      <div>
         <a href="https://www.linkedin.com/in/abhishek-nagwani/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
     </footer>
   );
