@@ -21,10 +21,10 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Mechanical Design Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Pune,Maharaster</h4>
             <h4 className="vertical-timeline-element-subtitle">ERIC Robotics</h4>
+            <h4 className="vertical-timeline-element-subtitle">Pune,Maharashtra</h4>
             <p>
-              Robotics System Design , NDT , Product Development 
+             Multigauge Robotics | NDT Integration | Fusion 360 | Rapid Prototyping
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
