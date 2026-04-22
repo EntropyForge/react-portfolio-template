@@ -7,8 +7,6 @@ function Contact() {
       <div className="items-container">
         <div className="contact_wrapper">
           <h1>Contact Me</h1>
-          <p>Got a project waiting to be realized? Let's collaborate and make it happen!</p>
-          
           <div className="contact-info-block" style={{ textAlign: 'center', marginTop: '2rem' }}>
               <p style={{ fontSize: '1.2rem', marginBottom: '10px' }}>
                   <strong>Email: </strong> 
