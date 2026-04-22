@@ -77,15 +77,13 @@ function Project() {
             • <strong>Advanced Telemetry:</strong> Established reliable, data-rich ground station communication using ArduPilot's open-source autonomous architecture.</p>
             </div>
             <div className="project">
-            <img src={AMRImage} className="zoom" alt="Industrial Autonomous Mobile Robot" width="100%"/>
+                <img src={AMRImage} className="zoom" alt="Industrial Autonomous Mobile Robot" width="100%"/>
             <h2>Industrial Autonomous Mobile Robot (AMR)</h2>
             <p><strong>Objective:</strong><br/>Engineer a manufacturable, zero-turn Autonomous Mobile Robot optimized for 60kg warehouse logistics within a rapid 48-hour design sprint.</p>
-
             <p><strong>Approach:</strong><br/>
             • Designed a rigid ladder frame chassis utilizing 40x20mm Aluminum 6106-T6 C-channels to minimize torsional twisting and maximize the payload-to-weight ratio.<br/>
             • Configured a central "Diamond" kinematic drive featuring dual 350W direct-drive hub motors and 155mm solid casters for superior traction.<br/>
             • Integrated a Sensor Fusion suite combining a roof-mounted 360° 2D LiDAR for SLAM and a front-bumper Intel RealSense Depth Camera for blind-spot obstacle avoidance.</p>
-
             <p><strong>Key Results:</strong><br/>
             • <strong>Structural Validation:</strong> Executed MATLAB and Fusion 360 FEA confirming a maximum deflection of 1.86mm and an Aluminum Yield Factor of Safety (FoS) of 3.84 under peak load.<br/>
             • <strong>Tractive Performance:</strong> Analytically validated 8.56 Nm of total motor torque, ensuring reliable 5-degree ramp climbing capabilities under a full 60kg gross weight.<br/>
