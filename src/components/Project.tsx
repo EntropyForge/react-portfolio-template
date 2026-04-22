@@ -51,7 +51,7 @@ function Project() {
             • <strong>Centralized Logistics:</strong> Streamlined field operations by combining complex data processing and dense power storage into a single, highly mobile unit.</p>
             </div>
             <div className="project">
-                <img src={DroneProject} className="zoom" alt="Autonomous 450mm Quadcopter" width="100%"/>
+                <img src={DroneP} className="zoom" alt="Autonomous 450mm Quadcopter" width="100%"/>
             <h2>Autonomous 450mm Quadcopter</h2>
             <p><strong>Approach:</strong><br/>
             • Configured a high-thrust propulsion system utilizing 1250KV brushless motors and 30A ESCs on a rigid 450mm frame, powered by a high-discharge 3000mAh LiPo battery.<br/>
@@ -63,7 +63,7 @@ function Project() {
             • <strong>Custom Manufacturing:</strong> Proved rapid prototyping capabilities by successfully deploying end-use 3D-printed ABS hardware in dynamic flight conditions.</p>
             </div>
             <div className="project">
-                <img src={Dronedisplay} className="zoom" alt="Project Garuda-1 Heavy-Lift Hexacopter" width="100%"/>
+                <img src={DroneD} className="zoom" alt="Project Garuda-1 Heavy-Lift Hexacopter" width="100%"/>
             <h2>Project Garuda-1: Heavy-Lift Hexacopter</h2>
             <p><strong>Objective:</strong><br/>Design, assemble, and configure a custom heavy-lift hexacopter platform optimized for high-capacity payload transport and advanced autonomous telemetry.</p>
             <p><strong>Approach:</strong><br/>
