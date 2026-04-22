@@ -1,8 +1,8 @@
 import React from "react";
 import CrewModuledata from '../assets/images/CrewModuledata.jpg';
 import Roboteric from '../assets/images/Roboteric.jpg';
-import DroneProject from '../assets/images/DroneProject.jpg';
-import Dronedisplay from '../assets/images/Dronedisplay.jpg';
+import DroneP from '../assets/images/DroneP.jpg';
+import DroneD from '../assets/images/DroneD.jpg';
 import AMR from '../assets/images/AMR.jpg';
 import '../assets/styles/Project.scss';
 
