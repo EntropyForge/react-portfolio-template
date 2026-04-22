@@ -86,7 +86,7 @@ function Project() {
             <p><strong>Key Results:</strong><br/>
             • <strong>Structural Validation:</strong> Executed MATLAB and Fusion 360 FEA confirming a maximum deflection of 1.86mm and an Aluminum Yield Factor of Safety (FoS) of 3.84 under peak load.<br/>
             • <strong>Tractive Performance:</strong> Analytically validated 8.56 Nm of total motor torque, ensuring reliable 5-degree ramp climbing capabilities under a full 60kg gross weight.<br/>
-            • <strong>Industrial Safety:</strong> Engineered recessed battery integration secured with M6 structural bolts (Shear FoS > 200) to significantly lower the center of gravity and ensure collision safety.</p>
+            • <strong>Industrial Safety:</strong> Engineered recessed battery integration secured with M6 structural bolts (Shear FoS more than 200) to significantly lower the center of gravity and ensure collision safety.</p>
             </div>
         </div>
     </div>
