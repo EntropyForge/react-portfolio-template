@@ -66,7 +66,6 @@ function Project() {
                 <img src={Dronedisplay} className="zoom" alt="Project Garuda-1 Heavy-Lift Hexacopter" width="100%"/>
             <h2>Project Garuda-1: Heavy-Lift Hexacopter</h2>
             <p><strong>Objective:</strong><br/>Design, assemble, and configure a custom heavy-lift hexacopter platform optimized for high-capacity payload transport and advanced autonomous telemetry.</p>
-
             <p><strong>Approach:</strong><br/>
             • Engineered a highly rigid six-rotor propulsion architecture utilizing high-torque low-KV motors and 15-inch carbon-fiber propellers, regulated by heavy-duty 60A ESCs.<br/>
             • Designed a high-capacity power distribution system capable of safely managing peak current draw from massive dual 6S 22000mAh LiPo battery packs.<br/>
@@ -77,7 +76,7 @@ function Project() {
             • <strong>Advanced Telemetry:</strong> Established reliable, data-rich ground station communication using ArduPilot's open-source autonomous architecture.</p>
             </div>
             <div className="project">
-                <img src={AMRImage} className="zoom" alt="Industrial Autonomous Mobile Robot" width="100%"/>
+                <img src={AMR} className="zoom" alt="Industrial Autonomous Mobile Robot" width="100%"/>
             <h2>Industrial Autonomous Mobile Robot (AMR)</h2>
             <p><strong>Objective:</strong><br/>Engineer a manufacturable, zero-turn Autonomous Mobile Robot optimized for 60kg warehouse logistics within a rapid 48-hour design sprint.</p>
             <p><strong>Approach:</strong><br/>
