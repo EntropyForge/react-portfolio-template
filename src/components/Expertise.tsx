@@ -37,8 +37,8 @@ function Expertise() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faRobot} size="3x"/>
-                    <h3>Full Stack Web Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
+                    <h3>Robotics & Mechatronics</h3>
+                    <p>I specialize in designing and manufacturing dynamic mechatronic systems. My recent work includes engineering a high-speed, multigauge railway inspection robot capable of traversing varying track widths at 30 kmph for automated NDT, as well as developing a custom 3-DOF RRR robotic arm featuring 3D-printed planetary gearboxes and precision NEMA motor control</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -49,8 +49,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faRocket} size="3x"/>
-                    <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <h3>UAV Architecture & Aerial Systems</h3>
+                    <p>I specialize in the end-to-end design, assembly, and programming of custom unmanned aerial vehicles. I led the hardware development and firmware configuration for Project Garuda-1, a heavy-lift hexacopter engineered for 5kg payload, utilizing ArduPilot and Pixhawk flight controllers to achieve stable, autonomous flight.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -61,8 +61,8 @@ function Expertise() {
 
                 <div className="skill">
                     <FontAwesomeIcon icon={faCubes} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <h3>CAD Modeling & CAE Simulation</h3>
+                    <p>Before any physical hardware is manufactured, I ensure its viability through advanced digital modeling and simulation. I leverage Fusion 360 for complex, multi-component assemblies and utilize ANSYS for comprehensive Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD), ensuring structural integrity and thermodynamic stability under extreme loads.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
