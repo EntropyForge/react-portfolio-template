@@ -22,7 +22,7 @@ function Project() {
                • <strong>Factor of Safety (FoS):</strong> 2.8 under hypersonic loads.</p>
             </div>
             <div className="project">
-                <img src={RailRobotNDA} className="zoom" alt="Proprietary Rail Inspection Robot" width="100%"/>
+                <img src={Roboteric} className="zoom" alt="Proprietary Rail Inspection Robot" width="100%"/>
             <h2>Multi-Gauge Rail Inspection Robot</h2>
             <p><strong>Objective:</strong><br/>Design and validate a ruggedized, IP64-rated robotic system for ultra-precision rail head flaw detection at high operational speeds.</p>
             <p><strong>Approach:</strong><br/>
@@ -33,7 +33,6 @@ function Project() {
             • <strong>High-Speed Inspection:</strong> Validated reliable dynamic data acquisition at travel speeds up to 30 km/h, utilizing integrated sensors with a 1-micron guaranteed accuracy.<br/>
             • <strong>Dynamic Adaptability:</strong> Successfully deployed and shifted between three distinct railway gauge standards.<br/>
             • <strong>Environmental Durability:</strong> Validated IP64 dust-proof rating for harsh, real-world track conditions.</p>
-            </div>
             </div>
         </div>
     </div>
