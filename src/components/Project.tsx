@@ -33,7 +33,7 @@ function Project() {
             • Enforced a strict 10-micron manufacturing tolerance across all mechanical components to ensure flawless sensor payload alignment.<br/>
             • Executed real-world field testing, calibration, and operational validation on Pune Maha Metro tracks.</p>
             <p><strong>Key Results:</strong><br/>
-            • <strong>High-Speed Inspection:</strong> Validated reliable dynamic data acquisition at travel speeds up to 30 km/h, utilizing integrated sensors with a 1-micron guaranteed accuracy.<br/>
+            • <strong>High-Speed Inspection:</strong> Validated reliable dynamic data acquisition at travel speeds up to 30 km/h, utilizing integrated sensors with a 20-micron guaranteed accuracy.<br/>
             • <strong>Dynamic Adaptability:</strong> Successfully deployed and shifted between three distinct railway gauge standards.<br/>
             • <strong>Environmental Durability:</strong> Validated IP64 dust-proof rating for harsh, real-world track conditions.</p>
             </div>
