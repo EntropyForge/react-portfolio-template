@@ -17,9 +17,9 @@ function Contact() {
                   <a href="tel:+919579767131">+91 9579767131</a>
               </p>
             <p style={{ fontSize: '1.2rem', marginBottom: '30px' }}>
-              <strong>Resume: </strong>
+              <strong>Check Out My Resume: </strong>
               <a
-                  href="/Abhishek_Nagwani_Resume_16_06_26.pdf"
+                  href="/Abhishek_N_Resume_16_06_26.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
               >
