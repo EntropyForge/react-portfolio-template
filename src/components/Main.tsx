@@ -16,16 +16,6 @@ function Main() {
           </div>
           <h1>Abhishek Nagwani</h1>
           <p>Mechanical Engineer</p>
-          <div className="buttons">
-            <a
-              href="/Abhishek_Nagwani_Resume_16_06_26.pdf"
-              target="_blank"
-              rel="noreferrer"
-              className="resume-btn"
-            >
-              📄 Download Resume
-            </a>
-          </div>
 
           <div className="mobile_social_icons">
             <a href="https://www.linkedin.com/in/abhishek-nagwani/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
